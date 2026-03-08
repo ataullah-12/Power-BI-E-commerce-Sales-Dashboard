@@ -159,7 +159,8 @@ The dashboard enables insights such as:
 
 # 📷 Dashboard Preview
 
-<img width="596" height="331" alt="E Sales Dashboard Sreenshot" src="https://github.com/user-attachments/assets/0f55fee2-5246-4c46-bbbf-af0795b19cef" />
+<img width="604" height="329" alt="E Sales Dashboard Sreenshot" src="https://github.com/user-attachments/assets/f0ee796d-6994-43cb-838e-98f89288528c" />
+
 
 
 ---
